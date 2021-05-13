@@ -1,0 +1,14 @@
+{
+    "name": "sistemas/en-php",
+    "type": "project",
+    "authors": [
+        {
+            "name": "JonathanRome",
+            "email": "jhoropertuz@gmail.com"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "^9.5"
+    }
+}
